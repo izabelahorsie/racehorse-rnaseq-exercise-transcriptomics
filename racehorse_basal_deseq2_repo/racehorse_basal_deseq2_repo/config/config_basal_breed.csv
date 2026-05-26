@@ -1,0 +1,4 @@
+dataset,counts,design,design_type,comparison,out_subdir
+T1,data/raw/rawcounts-matrix_T1.csv,data/metadata/design_T1_balanced_Arabian_Thoroughbred.csv,csv,breed,Basal_CONTROL_Breed_DESeq2
+T2,data/raw/rawcounts-matrix_T2.csv,data/metadata/design_T2_balanced_Arabian_Thoroughbred.csv,csv,breed,Basal_CONTROL_Breed_DESeq2
+R,data/raw/rawcounts-matrix_R.csv,data/metadata/design_R_balanced_Arabian_Thoroughbred.csv,csv,breed,Basal_CONTROL_Breed_DESeq2
