@@ -107,7 +107,3 @@ install.packages("renv")
 renv::init()
 renv::snapshot()
 ```
-
-## Notes
-
-The repository is organized with one shared input-data location to avoid duplicating count matrices and metadata across analysis folders. The scripts preserve the original analytical logic and replace local Windows paths with relative repository paths defined in each analysis-specific `config/` file.
