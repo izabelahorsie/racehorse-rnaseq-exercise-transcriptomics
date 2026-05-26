@@ -1,0 +1,2 @@
+dataset,counts,design,design_type,comparison,out_subdir
+R,../../shared_data/raw/rawcounts-matrix_R.csv,../../shared_data/metadata/design_R_with_HorseID_with_performance.xlsx,xlsx,performance,Basal_CONTROL_Performance_DESeq2
